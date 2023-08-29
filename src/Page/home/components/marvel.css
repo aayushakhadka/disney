@@ -1,0 +1,30 @@
+.marvelContainer{
+padding:40px;
+display: flex;
+justify-content: space-between;
+padding-bottom: 0;
+
+}
+
+
+.disnep{
+    border: 4px solid  grey;
+    border-radius: 5px ;
+    box-shadow: rgb(21, 22, 22) 0px 20px 30px 8px;
+    transform: scale(1);
+    transition: 0.3s;
+
+}
+
+.disnep:hover{
+ cursor: pointer;
+ border-color: aliceblue;
+ transform: scale(1.1);
+
+
+}
+
+
+
+
+  

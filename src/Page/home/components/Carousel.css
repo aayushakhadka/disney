@@ -1,0 +1,24 @@
+.cartoon{
+
+    width:100% ;
+    height:350px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 4px solid grey;
+    border-radius: 5px;
+    border-radius: 5px;
+    transform: scale (1);
+    transition: 1s;
+    box-shadow: rgb(21, 22, 22) 0px 20px 30px 8px;
+    object-fit: cover;
+
+
+
+  }
+
+  .cartoon:hover{
+    cursor: pointer;
+    border-color: aliceblue;
+    transform: scale (1.1);
+  }

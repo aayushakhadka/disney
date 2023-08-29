@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.main{
+  background-image: linear-gradient(#040714,#1D212E,#272B3B);
+  min-height:calc(100vh - 80px);
+}
+
+.mainContainer{
+overflow-x: hidden;
+  background-image: linear-gradient(#040714,#1D212E,#272B3B);
+  min-height:calc(100vh - 80px);
+}
+

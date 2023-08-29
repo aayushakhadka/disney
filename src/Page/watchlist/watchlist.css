@@ -1,0 +1,116 @@
+.watchlistContainer{
+    
+    background-image: url('https://compote.slate.com/images/689f8a4c-f2e1-455c-b1f3-b64855793b48.jpeg?crop=1560%2C1040%2Cx0%2Cy0');
+    
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+      margin-left: 40px;
+      margin-right:40px ;    
+      margin-top: 30px;
+}
+
+.Bao{
+     
+height: 250px;
+width: 350px;
+margin-left:40px ;
+}
+
+.button{
+
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+.play{
+
+height: 55px;
+width: 130px;
+border-radius: 5px;
+background-color: white;
+font-size:medium ;
+font-weight:bold ;
+border: 0;
+margin-left: 30px;
+text-align: center;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+    
+
+
+
+}
+
+
+.trailer{
+
+    height: 55px;
+    width: 155px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size:medium ;
+    font-weight:bold ;
+    border: 0;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid white;
+    background: linear-gradient(transparent,#000000 );
+
+    
+
+}
+
+.play:hover{
+    cursor:pointer;
+}
+
+
+
+
+
+.trailer:hover{
+background-color: black;
+cursor: pointer;
+
+}
+
+.describecontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width:400px ;
+    margin-left: 30px;
+
+
+}
+
+
+
+
+.description{
+
+    color: rgb(26, 23, 23);
+    
+}
+
+.icons{
+ height: 35px;
+ margin-left: 20px;
+ color: white;
+ width: 35px;
+ border-radius:100% ;
+ border: 2px solid white;
+ background: linear-gradient(transparent,black);
+
+
+}

@@ -1,0 +1,11 @@
+
+.detailcontainer{
+
+
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+      margin-left: 40px;
+      margin-right:40px ;    
+      margin-top: 30px;
+}
